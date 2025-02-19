@@ -32,6 +32,6 @@ This project is my final-year Bachelor’s thesis focused on creating an intelli
 ## Publications and Presentations
 - **MDPI IoT Journal**  
   Published a comprehensive paper detailing the design and results of this intelligent energy management approach.
-  Link: https://www.mdpi.com/2624-831X/5/3/25 
+  Link: [MDPI IoT Journal](https://www.mdpi.com/2624-831X/5/3/25) 
 - **IEEE S4IoT Symposium, Kuwait (2024)**  
   Presented the methodology, highlighting improvements in energy efficiency, grid stability, and potential for real-world deployment.
